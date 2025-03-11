@@ -1,1 +1,2 @@
 # html
+HTML (HyperText Markup Language) es el lenguaje estándar utilizado para estructurar y presentar contenido en la web. A través de etiquetas o "tags", HTML permite definir elementos como texto, imágenes, enlaces, formularios, tablas y otros componentes esenciales de una página web. Cada página web está compuesta por un conjunto de elementos HTML organizados jerárquicamente. HTML es fundamental para el desarrollo web, ya que establece la estructura básica sobre la que se aplican estilos (CSS) y se implementan interactividad (JavaScript).
