@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Backroom</title>
+    <style>
+        body {
+            margin: 0;
+            height: 100vh;
+            background-color: #f0e4b0; /* Color típico de backroom */
+        }
+       
+    </style 
+    <div>   
+          img src="" alt="Imagen de ejemplo">
+    </div>
+    <div>
+  <input type="text" placeholder="Usuario">
+  <input type="password" placeholder="Contraseña">
+</div>
+
+</head>
+<body></body>
+</html>
